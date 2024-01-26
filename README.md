@@ -11,11 +11,11 @@ Use for getting a shit ton of score.
 6. Paste script in
 
 ## Settings
-bBy changing the number on the last line (by default 225) you can change what the delay between answering is. 
+By changing the number on the last line (by default 225) you can change what the delay between answering is. 
 NOTE: at least for my pc and internet, 225 is the lowest i can use without being kicked out (i doubt it's an anti cheating measure, probably just a rate limit
 
 ## FAQ
-### Will this work with grease/tampermonkey
+Will this work with grease/tampermonkey?
 There is no reason why it won't.
 
 ## Support
