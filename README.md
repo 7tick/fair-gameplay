@@ -5,7 +5,7 @@ Use for getting a shit ton of score.
 ## How to use
 1. log in to ttrockstars
 2. click "multiplayer"
-3. click "festival" (works on most other gamemodes but some use different style names and I can't be asked the script is meant to be short and simple.
+3. click "festival" (works on most other gamemodes but some use different class names and I can't be asked)
 4. open dev tools (CTL+SHIFT+I)
 5. go to "console" tab
 6. paste script in
