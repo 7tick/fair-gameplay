@@ -8,7 +8,7 @@ Use for getting a shit ton of score.
 3. Click "festival" (works on most other gamemodes but some use different class names and I can't be asked)
 4. Open dev tools (CTL+SHIFT+I)
 5. Go to "console" tab
-6. Paste script in
+6. Paste script (fair-gameplay.js)
 
 ## Settings
 By changing the number on the last line (by default 225) you can change what the delay between answering is. 
